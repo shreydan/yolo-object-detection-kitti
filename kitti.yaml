@@ -1,0 +1,12 @@
+names:
+- Car
+- Pedestrian
+- Van
+- Cyclist
+- Truck
+- Misc
+- Tram
+- Person_sitting
+nc: 8
+train: /kaggle/working/train
+val: /kaggle/working/valid
